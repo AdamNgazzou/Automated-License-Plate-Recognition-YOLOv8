@@ -5,6 +5,9 @@ A robust end-to-end pipeline for automatic vehicle and license plate detection, 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green.svg)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-YOLOv8-blueviolet)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-%3E=1.6.2-orange)
 
 ---
 
