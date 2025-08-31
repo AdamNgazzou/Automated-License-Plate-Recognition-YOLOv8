@@ -107,7 +107,7 @@ You can adjust input/output paths in `main.py` and `visualise.py` as needed.
   Annotated video with bounding boxes and recognized plates is saved as `out.mp4`.
 
 - **Sample Output:**  
-  _(Add screenshots or GIFs here)_
+  ![Sample Output](image.png)
 
 ---
 
